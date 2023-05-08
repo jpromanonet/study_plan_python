@@ -7,3 +7,4 @@ A simple study plan for 2023 and maybe 2024
 4. C++ (https://www.youtube.com/@javidx9)
 5. Unity Project Tutorials (https://www.youtube.com/results?search_query=unity+projects+tutorial)
 6. Hard Core C++ (https://www.youtube.com/@writeyourownoperatingsystem/playlists)
+7. DIY Hardware (https://www.youtube.com/@BenEater/)
