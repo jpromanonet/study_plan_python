@@ -1,5 +1,5 @@
 # study_plan_2023
-A simple study plan for 2023 and maybe 2024
+A simple study plan for 2023
 ---
 1. CRUDS (https://www.youtube.com/playlist?list=PLSuKjujFoGJ1FcWCrBOtIqSq7FGZSbiBh)
 2. Ani (https://www.youtube.com/@AniaKubow)
