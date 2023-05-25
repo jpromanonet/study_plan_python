@@ -3,8 +3,8 @@ A simple study plan for things I Like to learn
 ---
 1. CRUDS (https://www.youtube.com/playlist?list=PLSuKjujFoGJ1FcWCrBOtIqSq7FGZSbiBh)
 2. Ani (https://www.youtube.com/@AniaKubow)
-3. fullstackopen.com
-4. freecodecamp.org
+3. https://fullstackopen.com
+4. https://freecodecamp.org
 5. Python (https://www.youtube.com/@CoderSpaceChannel/featured)
 6. Django
 7. C++ (https://www.youtube.com/@javidx9)
