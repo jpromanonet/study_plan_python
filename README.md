@@ -1,7 +1,9 @@
 # Study Plan
 ---
 ## SaaS tutorials & Projecs
-1. 
+1. Build a SaaS - Free Code Camp (https://www.youtube.com/watch?v=4xuBT3BbsYU&t=16s)
+2. SaaS projects with Django (https://www.youtube.com/@JustDjango)
+3. CRUDs (https://www.youtube.com/playlist?list=PLSuKjujFoGJ1FcWCrBOtIqSq7FGZSbiBh)
 ---
 ## Software Development (Mostly videogames)
 1. Ani (https://www.youtube.com/@AniaKubow)
