@@ -1,6 +1,6 @@
 # Study Plan
 ---
-## SaaS tutorials & Projecs
+## SaaS tutorials & Projects
 1. Ani (https://www.youtube.com/@AniaKubow)
 2. Build a SaaS - Free Code Camp (https://www.youtube.com/watch?v=4xuBT3BbsYU&t=16s)
 3. SaaS projects with Django (https://www.youtube.com/@JustDjango)
