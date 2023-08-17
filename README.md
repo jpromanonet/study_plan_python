@@ -1,4 +1,15 @@
-# Study Plan
+# Study Plan for Python
+
+## Video Games
+
+- Coder Space: https://www.youtube.com/@CoderSpaceChannel/featured
+- Clear Code: https://www.youtube.com/@ClearCode
+
+## Desktop Apps
+
+- Desktop apps (Free Code Camp): https://www.youtube.com/watch?v=Z1N9JzNax2k
+- Tkinter Movie catalog app: https://www.youtube.com/watch?v=7QqDQEZ3FTI
+- Ultimate GUI in python with Tkinter: https://www.youtube.com/watch?v=mop6g-c5HEY
 
 ## Django with React & Vue JS
 
