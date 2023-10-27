@@ -1,5 +1,10 @@
 # Study Plan for Python
 
+Part 2 of 3
+- Part 1: https://github.com/jpromanonet/study_plan_videogames
+- Part 2: https://github.com/jpromanonet/study_plan_python
+- Part 3: https://github.com/jpromanonet/study_plan_cpp
+
 ## Desktop Apps
 
 - Tkinter Projects: https://www.youtube.com/results?search_query=tkinter+projects
